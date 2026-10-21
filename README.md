@@ -132,18 +132,4 @@ Mini scores are for debugging. Submit full-data CSVs to both Kaggle tracks for t
 
 For a comparison run, copy `full_config.ini` to a clearly named file such as `access_var.ini`. Change a method or component for Access-Var and Analysis-Var, or one setting for Config-Var. Give `run_dir` a new folder. Keep unrelated settings unchanged so the comparison remains controlled. Components of a combined method may share one function and be controlled by separate config values. In an INI file, edit values on the right of `=`. Keep the section and existing key names used by the runner.
 
-## Submission
-
-- [Distribution](https://www.kaggle.com/t/710af9331af4484e8f4d853f1a3c3e35)
-- [Evidence Ranking](https://www.kaggle.com/t/319dc8afbd1a472e9c7e80f217352ad3)
-- [Kaggle identity form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=cTYy0b7NF0S01L2yS1Exa5K4GQPBW2tCqzHydQ3reexUQ0lWQk9GQTUxWVVNRjZSR0xDN0lOQ1VLTi4u)
-
-1. **Submit to Kaggle.** Upload each required run's CSV to both tracks. Choose up to two final submissions per track or use the default selection in Main Section 5.1. The selections may differ between tracks. Use the same non-identifying Team Name on both tracks and submit it through the identity form. The Kaggle username or handle field is optional.
-
-2. **Gather the files.** Include source code, `requirements.txt`, configs, `WRITEUP.pdf`, `DEMO.mp4`, and the supplied `data/mini/` and `test_sanity/` folders.
-
-3. **Keep run evidence together.** Store each run's outputs and the compact evidence files cited in your report in its folder under `runs/`. Save cropped Kaggle screenshots there as `kaggle_distribution.png` and `kaggle_evidence.png`. List the folder in the Evidence Summary Table.
-
-4. **Clean and zip.** Before creating the ZIP, remove temporary API responses and generated embeddings from `cache/`. Exclude `.venv/`, full data, full document embeddings, and generated full indexes from the ZIP. Keep the supplied mini embeddings in `data/mini/`. Name it `YourName_s1234567_ass2.zip`, for example `ZhuangLi_s1234567_ass2.zip`.
-
-5. **Check and upload.** Extract the ZIP into a new folder. Run the mini workflow with the submitted `mini_config.ini`, then evaluate the newly generated CSV using its actual path, as shown above. Both commands must finish without errors. Upload the verified ZIP to Canvas. Keep generated files in the extracted test copy.
+Video: https://1drv.ms/v/c/763539e587cdff66/IQCtY7FfBUN3TY_YiLj_LdLqATdyiaKGaEUi0d9O-jyR5wA?e=6K4c6R
