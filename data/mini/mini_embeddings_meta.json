@@ -1,0 +1,10 @@
+{
+  "model": "text-embedding-3-small",
+  "dimensions": 1536,
+  "storage_dtype": "float16",
+  "scoring_dtype": "float32",
+  "document_text": "title and content joined with one newline; omit an empty title",
+  "rows": 1000,
+  "source_file": "mini_documents.jsonl",
+  "source_sha256": "f140cc066f42079bfcdbfceda7e061dbf78b9bf3a6b030fc1a015d9fd5ac28a2"
+}

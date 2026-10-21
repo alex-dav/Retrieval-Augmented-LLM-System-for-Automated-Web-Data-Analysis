@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which devices do you primarily use for gaming?",
+    "options": ["Mobile", "Console", "PC/Laptop", "Tablet", "VR Headset"],
+    "doc_id": "VDKVT7DBLY",
+    "text": "Not a fan. Mainly because the screen is too small and the controls are awkward on a touchscreen and the constant ads and trying to get you to spend money on microtransactions. If I have time to play games, I'm playing on my playstation.",
+    "option": "Console",
+    "reason": "plays on my playstation"
+  },
+  {
+    "question": "Do you still listen to the radio?",
+    "options": ["Yes", "No"],
+    "doc_id": "EXAMPLE_RADIO",
+    "text": "Yes, I listen to the radio every morning on my drive to work. I like the traffic reports.",
+    "option": "Yes",
+    "reason": "listens to the radio daily in the car"
+  },
+  {
+    "question": "Which devices do you primarily use for gaming?",
+    "options": ["Mobile", "Console", "PC/Laptop", "Tablet", "VR Headset"],
+    "doc_id": "QN5QRXSKG8",
+    "text": "I was thinking about sandwiches and why I never have them at home even though I like them well enough from restaurants. I just don't like them nearly as well at home. Is there some golden rule for meat vs cheese vs sauce vs other condiments?",
+    "option": "non_relevant",
+    "reason": "no gaming device discussed"
+  }
+]

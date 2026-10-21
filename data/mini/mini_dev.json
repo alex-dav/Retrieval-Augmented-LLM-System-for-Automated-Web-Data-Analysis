@@ -1,0 +1,12 @@
+{
+  "Which devices do you primarily use for gaming?": {
+    "distribution": {
+      "Mobile": 0,
+      "Console": 0,
+      "PC/Laptop": 0,
+      "Tablet": 0,
+      "VR Headset": 0
+    },
+    "supports": []
+  }
+}

@@ -1,0 +1,6 @@
+numpy>=1.26,<3
+nltk==3.9.2
+openai>=1.30,<3
+Whoosh-Reloaded==2.7.5
+beautifulsoup4>=4.12
+faiss-cpu==1.15.0
